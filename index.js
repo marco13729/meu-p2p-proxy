@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const app = express();
 
-const TARGET = "http://dvnpdois.sbs";
+const TARGET = "http://172.67.222.18";
 const USER = "aG82ZR8Xv3";
 const PASS = "mNXWvvAYEt";
 
