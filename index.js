@@ -3,7 +3,7 @@ const axios = require('axios');
 const { spawn } = require('child_process');
 const app = express();
 
-const TARGET = "http://dvnpdois.sbs";
+const TARGET = "http://dvnpdois.sbs:443";
 const USER_REAL = "aG82ZR8Xv3";
 const PASS_REAL = "mNXWvvAYEt";
 
